@@ -1,2 +1,5 @@
 # portfolio
-shibbir282.github.io/portfolio
+
+Data Scientist || ML Engineer
+
+MSU Montclair NJ
