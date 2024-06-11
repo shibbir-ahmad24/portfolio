@@ -1,4 +1,4 @@
-# Data Scientist || ML Engineer
+# Data Scientist
 
 Data Scientist || ML Engineer
 
