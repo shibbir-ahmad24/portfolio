@@ -51,8 +51,8 @@
   - Inserting a new tax payment record
   - Updating existing tax payment records
   - Deleting existing tax payment records
- 
-    ![Bike Study](/assets/img/bike_study.jpeg)
+
+![Bike Study](/assets/img/bike_study.jpeg)
     
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
