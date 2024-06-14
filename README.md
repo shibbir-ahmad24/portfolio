@@ -3,7 +3,8 @@
 #### Technical Skills: Python, SQL, MySQL, PyTorch, TensorFlow, Flask
 
 ## Education					       		
-M.S., Data Science | Montclair State University (_May 2025_)	 			        		
+M.S., Data Science | Montclair State University (_May 2025_)
+
 B.S., Computer Science | Port City International University (_March 2021_)
 
 ## Work Experience
