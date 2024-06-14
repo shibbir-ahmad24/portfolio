@@ -41,7 +41,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 - Visualized insights to explore popularity of product categories and sub-categories, total sales per rating, and correlation between ratings and number of ratings in popular products
 - Provided comprehensive findings report summarizing insights, and highlighting important trends and factors affecting product sales
 
-![Amazon Product Data](/assets/img/eeg_band_discovery.jpeg)
+![Amazon Product Data](/assets/img/Amazon_Product_Data.png)
 
 ### Customer Sales Analysis Dashboard
 - Tools: Tableau, MS Excel
@@ -54,7 +54,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
   - Revenue Percentage per Region
   - Gender-Wise Sales Analysis
 
-![Customer Sales Dashboard](/assets/img/Customer Sales Analysis Dashboard 1.png)
+![Customer Sales Dashboard](/assets/img/Customer_Sales_Data.png)
 
 ### Smart Tax Payment Tracking System
 - Tools: Python, SQLite, Flask, HTML, CSS, JavaScript, jQuery
@@ -66,7 +66,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
   - Update existing tax payment records
   - Delete existing tax payment records
 
-![Tax Tracking System](/assets/img/bike_study.jpeg)
+![Tax Tracking System](/assets/img/Tax_Payment_Tracking.png)
 
 ### Predictive Data Mining on Water Potability
 - Tools: Python, Numpy, Pandas, Scikit-learn
@@ -76,7 +76,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 - Trained the models using historical data on the quality and potability of water
 - Validated the accuracy of the models on the test data using various performance metrics
   
-![Water Potability](/assets/img/bike_study.jpeg)
+![Water Potability](/assets/img/Water_Potability.png)
 
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
