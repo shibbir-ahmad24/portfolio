@@ -45,6 +45,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
 2. S. A. Arif and T. Binte Hossain, "Opinion Mining of Customer Reviews Using Supervised Learning Algorithms," 2021 5th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2021, pp. 1-6. [Publication](https://ieeexplore.ieee.org/document/9733435)
 3. N. Islam and S. A. Arif, Suicidal ideation prediction based on social media data using machine learning and deep learning techniques, 1st Jamal Nazrul Islam National Conference for Young Researchers, University of Chittagong, Bangladesh, 2022, pp. 151. [Publication](https://drive.google.com/file/d/1XRwhTLfb1FNa31MbarCb6TPch-M8xAdi/view)
-4. A.	Gopeekrishnan, S. A. Arif and H. Liu, Demo: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), Delaware, USA, 2024. [Accepted]
+4. M. Hossain , S. A. Arif , S. Ahmed , P. Deshmukh , A. Shelar and J. Rahman, Investigating Childbirth Complicacies with Data Science,
+2024, [Publication](https://www.linkedin.com/pulse/rising-trend-cesarean-births-bangladesh-analysis-identification-bxfue/)
+5. A.	Gopeekrishnan, S. A. Arif and H. Liu, Demo: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting, IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE), Delaware, USA, 2024. [Accepted]
 
 - [Data Science Blog](https://medium.com/@shibbir282)
