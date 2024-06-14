@@ -39,7 +39,7 @@
 - Visualized insights to explore popularity of product categories and sub-categories, total sales per rating, and correlation between ratings and number of ratings in popular products
 - Provided comprehensive findings report summarizing insights, and highlighting important trends and factors affecting product sales
 
-[Amazon Product Data](/assets/img/eeg_band_discovery.jpeg)
+![Amazon Product Data](/assets/img/eeg_band_discovery.jpeg)
 
 ### Smart Tax Payment Tracking System
 - Tools: Python, Flask, HTML, CSS, JavaScript, jQuery, SQLite
@@ -52,7 +52,7 @@
   - Updating existing tax payment records
   - Deleting existing tax payment records
 
-[Tax Tracking System](/assets/img/bike_study.jpeg)
+![Tax Tracking System](/assets/img/bike_study.jpeg)
 
 ### Predictive Data Mining on Water Potability
 - Tools: Python, Numpy, Pandas, Scikit-learn
@@ -62,7 +62,7 @@
 - Trained the models using historical data on the quality and potability of water
 - Validated the accuracy of the models on the test data using various performance metrics
   
-[Water Potability](/assets/img/bike_study.jpeg)
+![Water Potability](/assets/img/bike_study.jpeg)
 
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
