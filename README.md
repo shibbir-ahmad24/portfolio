@@ -43,6 +43,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ![Amazon Product Data](/assets/img/Amazon_Product_Data.png)
 
+
 ### Customer Sales Analysis Dashboard
 - Tools: Tableau, MS Excel
 - Analyzed the customer sales data
@@ -56,6 +57,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ![Customer Sales Dashboard](/assets/img/Customer_Sales_Data.png)
 
+
 ### Smart Tax Payment Tracking System
 - Tools: Python, SQLite, Flask, HTML, CSS, JavaScript, jQuery
 - Developed a dynamic web application with the following features:
@@ -68,6 +70,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ![Tax Tracking System](/assets/img/Tax_Payment_Tracking.png)
 
+
 ### Predictive Data Mining on Water Potability
 - Tools: Python, Numpy, Pandas, Scikit-learn
 - Developed machine learning models to predict the water potability using some vital parameters
@@ -77,6 +80,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 - Validated the accuracy of the models on the test data using various performance metrics
   
 ![Water Potability](/assets/img/Water_Potability.png)
+
 
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
