@@ -2,10 +2,14 @@
 
 #### Technical Skills: Python, SQL, MySQL, PyTorch, TensorFlow, Flask
 
-## Education					       		
-MS in Data Science | Montclair State University (_May 2025_)
+## Education			
+**MS in Data Science**
+- Institute: Montclair State University, New Jersey, USA
+- Study Duration: August 2023 - Present
 
-BS in Computer Science | Port City International University (_March 2021_)
+**BS in Computer Science and Engineering**
+- Institute: Port City International University, Bangladesh
+- Graduation Year: 2021
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
