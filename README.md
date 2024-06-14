@@ -57,15 +57,14 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 ![Customer Sales Dashboard](/assets/img/Customer Sales Analysis Dashboard 1.png)
 
 ### Smart Tax Payment Tracking System
-- Tools: Python, Flask, HTML, CSS, JavaScript, jQuery, SQLite
-- Developed a dynamic web application using the Python Flask framework
-- Constructed a tax payment system with various features:
-  - Displaying the home page of the application
-  - Retrieving tax payment records based on all due dates
-  - Fetching tax payment records based on a specific due date
-  - Inserting a new tax payment record
-  - Updating existing tax payment records
-  - Deleting existing tax payment records
+- Tools: Python, SQLite, Flask, HTML, CSS, JavaScript, jQuery
+- Developed a dynamic web application with the following features:
+  - Display the home page of the application
+  - Retrieve tax payment records based on all due dates
+  - Fetch tax payment records based on a specific due date
+  - Insert a new tax payment record
+  - Update existing tax payment records
+  - Delete existing tax payment records
 
 ![Tax Tracking System](/assets/img/bike_study.jpeg)
 
