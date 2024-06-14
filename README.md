@@ -41,16 +41,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
 2. S. A. Arif and T. Binte Hossain, "Opinion Mining of Customer Reviews Using Supervised Learning Algorithms," 2021 5th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2021, pp. 1-6. [Publication](https://ieeexplore.ieee.org/document/9733435)
