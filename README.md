@@ -39,7 +39,7 @@
 - Visualized insights to explore popularity of product categories and sub-categories, total sales per rating, and correlation between ratings and number of ratings in popular products
 - Provided comprehensive findings report summarizing insights, and highlighting important trends and factors affecting product sales
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+[Amazon Product Data](/assets/img/eeg_band_discovery.jpeg)
 
 ### Smart Tax Payment Tracking System
 - Tools: Python, Flask, HTML, CSS, JavaScript, jQuery, SQLite
@@ -52,8 +52,18 @@
   - Updating existing tax payment records
   - Deleting existing tax payment records
 
-![Bike Study](/assets/img/bike_study.jpeg)
-    
+[Tax Tracking System](/assets/img/bike_study.jpeg)
+
+### Predictive Data Mining on Water Potability
+- Tools: Python, Numpy, Pandas, Scikit-learn
+- Developed machine learning models to predict the water potability using some parameters
+- Parameters include pH level, hardness, solids concentration, chloramines, Sulfate, turbidity, etc.
+- Utilized machine learning algorithms like logistic regression, KNN, random forest and MLP
+- Trained the models using historical data on the quality and potability of water
+- Validated the accuracy of the models on the test data using various performance metrics
+  
+[Water Potability](/assets/img/bike_study.jpeg)
+
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
 2. S. A. Arif and T. Binte Hossain, "Opinion Mining of Customer Reviews Using Supervised Learning Algorithms," 2021 5th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2021, pp. 1-6. [Publication](https://ieeexplore.ieee.org/document/9733435)
