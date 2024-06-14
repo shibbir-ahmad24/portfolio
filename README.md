@@ -12,13 +12,19 @@
 - Graduation Year: 2021
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Assistant @ MSU Data Science Lab (_March 2024 - Present_)**
+- Project: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting
+- Retrieved eligibility criteria for completed studies from the ClinicalTrials.gov API
+- Seek to demonstrate the potential of LLMs in expediting patient cohort screening
+- Presented a poster successfully at the MSU Student Research Symposium 2024
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Assistant @ Port City International University (_August 2020 – June 2021_)**
+- Project: Opinion Mining of Customer Reviews Using Supervised Learning Algorithms
+- Developed the model by applying five machine learning algorithms
+- Categorized the customer tweet reviews about popular cell phone brands into five opinion classes
+- Achieved the best model trained with SVM having 87% accuracy using the TF-IDF vectorizer
+- Presented the project outcome as a paper to the 5th International Conference on EICT, Bangladesh
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
