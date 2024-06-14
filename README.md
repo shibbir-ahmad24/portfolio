@@ -4,7 +4,7 @@
 
 ## Education			
 **MS in Data Science**
-- Institute: Montclair State University, New Jersey, USA
+- Institute: Montclair State University (MSU), New Jersey, USA
 - Study Duration: August 2023 - Present
 
 **BS in Computer Science and Engineering**
