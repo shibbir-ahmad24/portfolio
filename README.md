@@ -5,14 +5,14 @@
 ## Education			
 **MS in Data Science**
 - Institute: Montclair State University (MSU), New Jersey, USA
-- Study Duration: August 2023 - Present
+- Study Duration: Aug 2023 - Present
 
 **BS in Computer Science and Engineering**
 - Institute: Port City International University, Bangladesh
 - Graduation Year: 2021
 
 ## Work Experience
-**Research Assistant @ MSU Data Science Lab (_March 2024 - Present_)**
+**Research Assistant @ MSU Data Science Lab (_Mar 2024 - Present_)**
 - Project: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting
 - Retrieved eligibility criteria for completed studies from the ClinicalTrials.gov API
 - Seek to demonstrate the potential of LLMs in expediting patient cohort screening
