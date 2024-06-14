@@ -25,12 +25,14 @@
 - Achieved the best model trained with SVM having 87% accuracy using the TF-IDF vectorizer
 - Presented the project outcome as a paper to the 5th International Conference on EICT, Bangladesh
 
-
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Amazon Product Sales Data Analysis 
+- Tools: Python, Numpy, Pandas, Matplotlib, Seaborn
+- Conducted data exploration and cleaning to understand dataset structure, identify missing values, outliers, and inconsistencies, and ensure data integrity
+- Utilized data wrangling technique to manipulate and prepare the dataset for analysis, extracting relevant features, creating new variables, and transforming data as needed
+- Performed data mining to extract insights, identifying top product categories and sub-categories, popular products by ratings and discount pricing, as well as top selling and least selling products
+- Visualized insights to explore popularity of product categories and sub-categories, total sales per rating, and correlation between ratings and number of ratings in popular products
+- Provided comprehensive findings report summarizing insights, and highlighting important trends and factors affecting product sales
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
