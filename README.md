@@ -20,7 +20,7 @@
 
 **Research Assistant @ Port City International University (_August 2020 – June 2021_)**
 - Project: Opinion Mining of Customer Reviews Using Supervised Learning Algorithms
-- Developed the machine learning model by applying five machine learning algorithms
+- Developed the machine learning models by applying five machine learning algorithms
 - Categorized the customer tweet reviews about popular cell phone brands into five opinion classes
 - Achieved the best model trained with SVM having 87% accuracy using the TF-IDF vectorizer
 - Presented the project outcome as a paper to the 5th International Conference on EICT, Bangladesh
