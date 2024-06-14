@@ -1,4 +1,6 @@
-# Data Scientist
+# Data Scientist || Machine Learning Engineer
+
+Dynamic data scientist with 2 years of experience in data science, and machine learning using Python. Proficient in data analysis using SQL and business intelligence using Tableau and Power BI. Expert in conducting research in the field of Health Informatics and Natural Language Processing.
 
 ## Technical Skills
 - Languages: Python, R, Java, SQL, PHP, JavaScript, HTML, CSS 
