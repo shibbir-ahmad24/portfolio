@@ -43,6 +43,19 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ![Amazon Product Data](/assets/img/eeg_band_discovery.jpeg)
 
+### Customer Sales Analysis Dashboard
+- Tools: Tableau, MS Excel
+- Analyzed the customer sales data
+- Created an interactive dashboard exploring the following features:
+  - Revenue per Month
+  - Revenue per State
+  - Age-Wise Sales Analysis
+  - Quantity-Discount Correlation
+  - Revenue Percentage per Region
+  - Gender-Wise Sales Analysis
+
+![Customer Sales Dashboard](/assets/img/Customer Sales Analysis Dashboard 1.png)
+
 ### Smart Tax Payment Tracking System
 - Tools: Python, Flask, HTML, CSS, JavaScript, jQuery, SQLite
 - Developed a dynamic web application using the Python Flask framework
