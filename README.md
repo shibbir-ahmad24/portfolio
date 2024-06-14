@@ -70,7 +70,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ### Predictive Data Mining on Water Potability
 - Tools: Python, Numpy, Pandas, Scikit-learn
-- Developed machine learning models to predict the water potability using some parameters
+- Developed machine learning models to predict the water potability using some vital parameters
 - Parameters include pH level, hardness, solids concentration, chloramines, Sulfate, turbidity, etc.
 - Utilized machine learning algorithms like logistic regression, KNN, random forest and MLP
 - Trained the models using historical data on the quality and potability of water
