@@ -18,7 +18,7 @@
 - Seek to demonstrate the potential of LLMs in expediting patient cohort screening
 - Presented a poster successfully at the MSU Student Research Symposium 2024
 
-**Research Assistant @ Port City International University (_August 2020 – June 2021_)**
+**Research Assistant @ Port City International University (_Aug 2020 – Jun 2021_)**
 - Project: Opinion Mining of Customer Reviews Using Supervised Learning Algorithms
 - Developed the machine learning models by applying five machine learning algorithms
 - Categorized the customer tweet reviews about popular cell phone brands into five opinion classes
