@@ -1,6 +1,11 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, MySQL, PyTorch, TensorFlow, Flask
+## Technical Skills
+- Languages: Python, R, Java, SQL, PHP, JavaScript, HTML, CSS 
+- Frameworks: Pytorch, TensorFlow, Flask, Streamlit, Keras, Scikit-learn
+- Data Tools: MySQL, Tableau, Power BI, MS Excel
+- Developer Tools: Docker, VS Code, Visual Studio, PyCharm
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn, Plotly, NLTK
 
 ## Education			
 **MS in Data Science**
