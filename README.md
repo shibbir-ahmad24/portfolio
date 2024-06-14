@@ -36,13 +36,19 @@
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
+### Smart Tax Payment Tracking System
+- Tools: Python, Flask, HTML, CSS, JavaScript, jQuery, SQLite
+- Developed a dynamic web application using the Python Flask framework
+- Constructed a tax payment system with various features:
+  - Displaying the home page of the application
+  - Retrieving tax payment records based on all due dates
+  - Fetching tax payment records based on a specific due date
+  - Inserting a new tax payment record
+  - Updating existing tax payment records
+  - Deleting existing tax payment records
+ 
+    ![Bike Study](/assets/img/bike_study.jpeg)
+    
 ## Publications
 1. Hassan, M.M., Hassan, M.M., Mollick, S. et al. A Comparative Study, Prediction and Development of Chronic Kidney Disease Using Machine Learning on Patients Clinical Records. Human-Centric Intelligent Systems 3, 92–104, Springer (2023). [Publication](https://doi.org/10.1007/s44230-023-00017-3)
 2. S. A. Arif and T. Binte Hossain, "Opinion Mining of Customer Reviews Using Supervised Learning Algorithms," 2021 5th International Conference on Electrical Information and Communication Technology (EICT), Khulna, Bangladesh, 2021, pp. 1-6. [Publication](https://ieeexplore.ieee.org/document/9733435)
