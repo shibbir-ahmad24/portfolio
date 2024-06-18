@@ -20,9 +20,9 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 
 ## Work Experience
 **Data Science Intern @ Community FoodBank of New Jersey (_Jun 2024 - Present_)**
-- Focusing on the collection and analysis of data regarding food distribution, partner capabilities, and community needs
-- Supporting the development and implementation of the partner tiering project by gathering, organizing, and evaluating data points using machine learning
-- Creating reports and presentations that summarize findings and suggest strategies for improving network impact and capacity
+- Focus on the collection and analysis of data regarding food distribution, partner capabilities, and community needs
+- Support the development and implementation of the partner tiering project by gathering, organizing, and evaluating data points using machine learning
+- Create reports and presentations that summarize findings and suggest strategies for improving network impact and capacity
 
 **Research Assistant @ MSU Data Science Lab (_Mar 2024 - Present_)**
 - Project: Accelerating Patient Screening for Clinical Trials using Large Language Model Prompting
