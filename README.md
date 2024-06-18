@@ -30,7 +30,7 @@ Dynamic data scientist with 2 years of experience in data science, and machine l
 - Seek to demonstrate the potential of LLMs in expediting patient cohort screening
 - Presented a poster successfully at the MSU Student Research Symposium 2024
 
-**Research Assistant @ Prof. Taslima Hossain Lab (_Aug 2020 – Jun 2021_)**
+**Research Assistant @ Professor Taslima Hossain Lab (_Aug 2020 – Jun 2021_)**
 - Project: Opinion Mining of Customer Reviews Using Supervised Learning Algorithms
 - Developed the machine learning models by applying five machine learning algorithms
 - Categorized the customer tweet reviews about popular cell phone brands into five opinion classes
